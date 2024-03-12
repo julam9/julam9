@@ -24,4 +24,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/julioam766?ext=activity)
 
-![Codewars](https://github.r2v.ch/codewars?user=julam9&name=true&top_languages=true&stroke=%23b362ff&hide_clan=True&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=julam9&top_languages=true)
