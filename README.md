@@ -26,4 +26,4 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=julam9&top_languages=true) 
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=iulam9&theme=dracula)](https://github.com/ignacio-cuadra/github-readme-codewars)
+<!-- [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=iulam9&theme=dracula)](https://github.com/ignacio-cuadra/github-readme-codewars)
