@@ -23,7 +23,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/julioam766?ext=activity)
-
-![Codewars](https://github.r2v.ch/codewars?user=julam9&top_languages=true) 
-
-<!-- [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=iulam9&theme=dracula)](https://github.com/ignacio-cuadra/github-readme-codewars)
