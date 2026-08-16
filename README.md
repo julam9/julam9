@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Bachelor of Statistics <br>🌱 I'm currently learning Data Science<br>☁️You can contact me at julioamdads@gmail.com<br>⚡I like coding & problem solving<br>
+🔭 Bachelor of Statistics <br>🌱 I'm currently working as Data Analyst<br>☁️You can contact me at julioamdads@gmail.com<br>⚡I like numbers & problem solving<br>
 
 
 ## 🌐 Socials:
